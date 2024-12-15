@@ -1,6 +1,7 @@
 import React from "react";
 import "./MealsSummary.css";
 
+
 const MealsSummary=()=>{
     return(
         <div className="summary">
@@ -10,7 +11,9 @@ const MealsSummary=()=>{
             <p>All our meals are cooked with high quality ingredients,
                  just-in-time and ofcourse by experienced chefs!</p>
         </div>
+        
     )
+    
 
 }
 
