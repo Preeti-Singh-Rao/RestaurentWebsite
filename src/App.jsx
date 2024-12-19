@@ -5,6 +5,7 @@ import Header from "./Components/Layout/Header"
 import MealsSummary from './Components/Layout/Meals/MealsSummary';
 import AvailableMeals from './Components/Layout/Meals/AvailableMeals';
 
+
 function App() {
  
   return (
@@ -12,7 +13,9 @@ function App() {
       <Header/>
       <MealsSummary/>
       <AvailableMeals/>
+     
     </Fragment>
+    
   )
 }
 

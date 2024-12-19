@@ -1,0 +1,35 @@
+.form-group {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-bottom: 10px;
+    text-align: right;
+}
+
+.form-group label {
+    margin-right: 10px; 
+    text-align: right;
+}
+
+.form-group input {
+   
+    width: 70px; 
+    padding: 8px;
+    box-sizing: border-box;
+    text-align: right;
+}
+
+
+.add-button {
+    display: flex;
+    justify-content: end;
+    padding: 10px;
+    background-color: green;
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 16px;
+    text-align: center;
+}
+
+
